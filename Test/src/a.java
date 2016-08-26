@@ -1,11 +1,11 @@
 
 public class a {
 
-	private static String aa;
+	private static String ab;
 	
 	public static void main(String[] args) {
-		aa = "a";
-		System.out.println(aa);
+		ab = "a";
+		System.out.println(ab);
 
 	}
 
